@@ -67,7 +67,7 @@
     "nodemon": "^1.18.3",
     "prettier": "^1.14.3",
     "prettier-eslint": "^8.8.2",
-    "react-dev-utils": "^6.0.5",
+    "react-dev-utils": "^11.0.4",
     "rimraf": "^2.6.2",
     "sass-loader": "^7.1.0",
     "typescript": "^3.6.3",
