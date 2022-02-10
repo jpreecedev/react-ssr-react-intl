@@ -63,7 +63,7 @@
     "eslint-plugin-standard": "^4.0.0",
     "file-loader": "^2.0.0",
     "mini-css-extract-plugin": "^0.4.4",
-    "node-sass": "^4.10.0",
+    "node-sass": "^7.0.0",
     "nodemon": "^1.18.3",
     "prettier": "^1.14.3",
     "prettier-eslint": "^8.8.2",
